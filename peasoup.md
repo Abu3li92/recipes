@@ -1,6 +1,6 @@
 # ingredient
  - peans
-  -onions
+  -spring onions
   - tomomatos
 # ingridients
 # instructions 
